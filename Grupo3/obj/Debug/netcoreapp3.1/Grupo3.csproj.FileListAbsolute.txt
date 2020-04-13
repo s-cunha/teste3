@@ -1,0 +1,17 @@
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.deps.json
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.pdb
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfoInputs.cache
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfo.cs
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.pdb
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.deps.json
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\bin\Debug\netcoreapp3.1\Grupo3.pdb
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.csprojAssemblyReference.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfoInputs.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.AssemblyInfo.cs
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.dll
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\Grupo3\obj\Debug\netcoreapp3.1\Grupo3.pdb

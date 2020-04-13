@@ -1,0 +1,26 @@
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.deps.json
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.dll
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.pdb
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.csprojAssemblyReference.cache
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfoInputs.cache
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfo.cs
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.dll
+D:\Documentos\Recodme\Testes\Teste 3\Resolução\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.pdb
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.deps.json
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.dll
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.pdb
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.csprojAssemblyReference.cache
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfoInputs.cache
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfo.cs
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.dll
+C:\Users\Sofia Cunha\Desktop\Ficha_ENunciado\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.pdb
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.deps.json
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.dll
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\bin\Debug\netcoreapp3.1\GrupoIV.pdb
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.csprojAssemblyReference.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.csproj.CoreCompileInputs.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfoInputs.cache
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.AssemblyInfo.cs
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.dll
+C:\Users\Sofia Cunha\Desktop\FICHA_CSHARP Sofia Cunha\Enunciado\Teste3\GrupoIV\obj\Debug\netcoreapp3.1\GrupoIV.pdb

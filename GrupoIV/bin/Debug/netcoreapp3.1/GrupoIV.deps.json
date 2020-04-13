@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GrupoIV/1.0.0": {
+        "runtime": {
+          "GrupoIV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrupoIV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

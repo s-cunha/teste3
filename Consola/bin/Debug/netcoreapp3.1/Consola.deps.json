@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Consola/1.0.0": {
+        "dependencies": {
+          "Grupo3": "1.0.0",
+          "GrupoIII": "1.0.0",
+          "GrupoIV": "1.0.0"
+        },
+        "runtime": {
+          "Consola.dll": {}
+        }
+      },
+      "Grupo3/1.0.0": {
+        "runtime": {
+          "Grupo3.dll": {}
+        }
+      },
+      "GrupoIII/1.0.0": {
+        "runtime": {
+          "GrupoIII.dll": {}
+        }
+      },
+      "GrupoIV/1.0.0": {
+        "runtime": {
+          "GrupoIV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grupo3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GrupoIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GrupoIV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
